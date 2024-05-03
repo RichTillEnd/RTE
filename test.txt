@@ -1,8 +1,8 @@
-Serial: 3965378652
+: 3965378652
 expireDate: 2024-05-04
 
-Serial: 2222222
+: 2222222
 expireDate: 2024-05-02
 
-Serial: 3333333
+: 3333333
 expireDate: 2024-05-03
