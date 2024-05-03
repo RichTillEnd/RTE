@@ -1,8 +1,8 @@
-序列號: 3965378652
+Serial: 3965378652
 expireDate: 2024-05-04
 
-序列號: serial_number2
-expireDate: YYYY-MM-DD
+Serial: 2222222
+expireDate: 2024-05-02
 
-序列號: serial_number3
-expireDate: YYYY-MM-DD
+Serial: 3333333
+expireDate: 2024-05-03
