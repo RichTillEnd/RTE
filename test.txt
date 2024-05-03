@@ -1,6 +1,8 @@
-3965378652
-2024-05-04
-000000
-2024-04-11
-000000
-2024-04-11
+序列號: 3965378652
+expireDate: YYYY-MM-DD
+
+序列號: serial_number2
+expireDate: YYYY-MM-DD
+
+序列號: serial_number3
+expireDate: YYYY-MM-DD
