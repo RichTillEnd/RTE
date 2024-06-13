@@ -1,15 +1,15 @@
-2093366885: expireDate: 2099-12-31  CLASS:0    // HOST
+2093366885: expireDate: 2099-12-31  CLASS:1    // HOST
 954216635: expireDate: 9999-12-31  CLASS:1     // 肥肥 永久
--1729593744: expireDate: 9999-12-31  CLASS:0   // R1 永久
+-1729593744: expireDate: 9999-12-31  CLASS:2   // R1 永久
 -1802775916: expireDate: 9999-12-31  CLASS:0   // 阿洲 永久
 -1865115091: expireDate: 2024-06-01  CLASS:0   // DC_墓碑
 1316734366: expireDate: 2024-07-06  CLASS:0    // DC_閃電五連鞭
 1448911980: expireDate: 2024-06-01  CLASS:0    // DC_OuO
 231085211: expireDate: 2024-06-03  CLASS:0     // DC_海綿
 648722158: expireDate: 2024-07-07  CLASS:0     // DC_林刀揮修處
-1168667129: expireDate: 2024-06-16  CLASS:0    // DC_奇夢
--624064157: expireDate: 2024-06-16  CLASS:0    // DC_奇夢
+1168667129: expireDate: 2024-06-16  CLASS:2    // DC_奇夢
+-624064157: expireDate: 2024-06-16  CLASS:2    // DC_奇夢
 -1797399221: expireDate: 2024-06-22  CLASS:0   // DC_ricksun
-709178894: expireDate: 2024-07-18  CLASS:0     // DC_阿弘
+709178894: expireDate: 2024-07-18  CLASS:1     // DC_阿弘
 46447631: expireDate: 2024-7-6  CLASS:0        // DC_水草
 1560851137: expireDate: 2024-07-06  CLASS:0    // DC_阿龍
