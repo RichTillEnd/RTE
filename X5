@@ -1,7 +1,8 @@
 2093366885: expireDate: 2099-12-31  CLASS:1    // HOST
-954216635: expireDate: 9999-12-31  CLASS:1     // 肥肥 永久
--1729593744: expireDate: 9999-12-31  CLASS:2   // R1 永久
--1802775916: expireDate: 9999-12-31  CLASS:0   // 阿洲 永久
+954216635: expireDate: 2099-12-31  CLASS:1     // 肥肥 永久
+717160472: expireDate: 2099-12-31  CLASS:1     // 肥肥 永久
+-1729593744: expireDate: 2099-12-31  CLASS:2   // R1 永久
+-1802775916: expireDate: 2099-12-31  CLASS:0   // 阿洲 永久
 -1865115091: expireDate: 2024-06-01  CLASS:0   // DC_墓碑
 1316734366: expireDate: 2024-07-06  CLASS:0    // DC_閃電五連鞭
 1448911980: expireDate: 2024-06-01  CLASS:0    // DC_OuO
