@@ -1,4 +1,4 @@
-2093366885: expireDate: 2099-12-31  CLASS:0    // HOST
+2093366885: expireDate: 2099-12-31  CLASS:0    // HOST   權限 0 = 普通  1 = 含炸房
 -1829206427: expireDate: 2099-12-31  CLASS:0   // r1 friends 永久
 -61946511: expireDate: 2099-12-31  CLASS:0     // r1 friends 永久
 -1297109475: expireDate: 2099-12-31  CLASS:0   // r1 friends 永久
@@ -13,3 +13,4 @@
 405868035: expireDate: 2024-10-14  CLASS:0    // DC_zh
 -1348045849: expireDate: 2024-10-17  CLASS:0    // DC_北潤客戶
 1479430715: expireDate: 2024-10-18  CLASS:0    // DC_北潤客戶
+-890825587: expireDate: 2024-10-09  CLASS:0    // DC_蘇
