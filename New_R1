@@ -1,4 +1,4 @@
-168004809: expireDate: 2099-12-31  CLASS:1    // HOST   權限 1 = 帶踢人   2 = 沒踢人
+168004809: expireDate: 2099-12-31  CLASS:1     // HOST   權限 1 = 帶踢人   2 = 沒踢人
 1627116374: expireDate: 2099-12-31  CLASS:1    // HOST
 1280221124: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
 686792714: expireDate: 2099-12-31  CLASS:1     // DC_彤_永久
@@ -8,12 +8,12 @@
 -224975417: expireDate: 2099-12-31  CLASS:1    // 北潤_永久
 -1337420274: expireDate: 2099-12-31  CLASS:1   // DC_M3_永久
 -703109994: expireDate: 2099-09-09  CLASS:1    // DC_水狗_永久
--247001460: expireDate: 2099-12-31  CLASS:1   // DC_拎北永久
+-247001460: expireDate: 2099-12-31  CLASS:1    // DC_拎北永久
 -1297109475: expireDate: 2099-12-31  CLASS:2   // r1朋友永久
 1486664211: expireDate: 2099-12-31  CLASS:2    // r1朋友永久
 166951794: expireDate: 2025-06-23  CLASS:2     // 北潤客戶 年卡
 -492192325: expireDate: 2024-11-11  CLASS:1    // DC_林翔
 648719868: expireDate: 2024-11-09  CLASS:1     // DC_壞壞
--141794483: expireDate: 2024-11-08  CLASS:1    // DC_阿寶
+-141794483: expireDate: 2024-12-09  CLASS:1    // DC_阿寶
 2084088726: expireDate: 2024-11-18  CLASS:1    // DC_98
-2096386451: expireDate: 2024-11-26  CLASS:1     // DC_北極熊朋友
+2096386451: expireDate: 2024-11-26  CLASS:1    // DC_北極熊朋友
