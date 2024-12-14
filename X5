@@ -1,6 +1,6 @@
-168004809: expireDate: 2099-12-31  CLASS:1     // HOST    權限 1 = 踢人+黃盾  2 = 隔空遁地+瞬間加速  0 = 全無
+168004809: expireDate: 2099-12-31  CLASS:0     // HOST    權限 1 = 踢人+黃盾  2 = 隔空遁地+瞬間加速  0 = 全無
 -2103993893: expireDate: 2099-12-31  CLASS:1   // 肥肥 永久
 -1001696565: expireDate: 2099-12-31  CLASS:1   // 肥肥 永久
 1414202657: expireDate: 2099-12-31  CLASS:0    // 阿洲 永久
 231085211: expireDate: 2024-12-07  CLASS:0     // DC_海綿
--433123412: expireDate: 2024-12-07  CLASS:0     // DC_海綿
+-433123412: expireDate: 2025-01-13  CLASS:0     // DC_K135
