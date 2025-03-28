@@ -1,6 +1,8 @@
 168004809: expireDate: 2099-12-31  CLASS:1    // HOST
 -1046391288: expireDate: 2099-12-31  CLASS:1  // HOST  _ Laptop
 -1031511033: expireDate: 2099-12-31  CLASS:1  // HOST  _ Laptop
+1209869425: expireDate: 2099-12-31  CLASS:1   // DC_Maine       EXP 永久 2台電腦
+1809400266: expireDate: 2099-12-31  CLASS:1   // DC_Maine       EXP 永久 2台電腦
 348028062: expireDate: 2099-12-31  CLASS:1    // DC_奔跑吧上帝           透永久
 573792454: expireDate: 2099-12-31  CLASS:1    // DC_奔跑吧上帝 客戶      透永久
 -1795387592: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
@@ -20,9 +22,8 @@
 -1263321730: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
 1595998445: expireDate: 2099-12-31  CLASS:1   // DC_奔跑吧上帝 客戶      透永久
 339812896: expireDate: 2099-12-31  CLASS:1    // DC_奔跑吧上帝 客戶      透永久
+645844508: expireDate: 2099-12-31  CLASS:1    // DC_奔跑吧上帝 客戶      透永久
 -635271232: expireDate: 2025-4-26  CLASS:1    // DC_北潤客戶
 -1067336526: expireDate: 2025-4-24  CLASS:1   // DC_Puka 團訂製
 44137556: expireDate: 2025-4-14  CLASS:1      // DC_賣幣         EXP + 微高跳
 381307222: expireDate: 2025-4-14  CLASS:1     // DC_賣幣         EXP for 筆電
-1209869425: expireDate: 2099-12-31  CLASS:1   // DC_Maine       EXP 永久 2台電腦
-1809400266: expireDate: 2099-12-31  CLASS:1   // DC_Maine       EXP 永久 2台電腦
