@@ -1,4 +1,4 @@
-168004809: expireDate: 2099-12-31  CLASS:3    // HOST    / 0 = 噴跳+速切  1 = 透   2 = 透(可調)   3 = 頂規
+168004809: expireDate: 2099-12-31  CLASS:0    // HOST    / 0 = 噴跳+速切  1 = 透   2 = 透(可調)   3 = 頂規
 -1046391288: expireDate: 2099-12-31  CLASS:1  // HOST  _ Laptop
 -1031511033: expireDate: 2099-12-31  CLASS:1  // HOST  _ Laptop
 1209869425: expireDate: 2099-12-31  CLASS:1   // DC_Maine       EXP 永久 2台電腦
@@ -13,10 +13,10 @@
 -1638918516: expireDate: 2099-12-31  CLASS:2  // DC_奔跑吧上帝 客戶      透永久 // 開關
 -342857831: expireDate: 2099-12-31  CLASS:2   // DC_奔跑吧上帝 客戶      透永久 // 開關
 1318681154: expireDate: 2099-12-31  CLASS:2   // DC_奔跑吧上帝 客戶      透永久 // 開關
--1610292548: expireDate: 2099-12-31  CLASS:2   // DC_奔跑吧上帝 客戶      透永久 // 開關
+-1610292548: expireDate: 2099-12-31  CLASS:2  // DC_奔跑吧上帝 客戶      透永久 // 開關
 573792454: expireDate: 2099-12-31  CLASS:1    // DC_奔跑吧上帝 客戶      透永久
 -1795387592: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
--701386739: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
+-701386739: expireDate: 2099-12-31  CLASS:1   // DC_奔跑吧上帝 客戶      透永久
 1482054067: expireDate: 2099-12-31  CLASS:1   // DC_奔跑吧上帝 客戶      透永久
 -1270222184: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
 1317196645: expireDate: 2099-12-31  CLASS:1   // DC_奔跑吧上帝 客戶      透永久
@@ -39,7 +39,8 @@
 1314740453: expireDate: 2099-12-31  CLASS:1   // DC_奔跑吧上帝 客戶      透永久
 -1865484437: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
 -1501926430: expireDate: 2099-12-31  CLASS:1  // DC_奔跑吧上帝 客戶      透永久
+1259292837: expireDate: 2099-12-31  CLASS:0   // DC_奔跑吧上帝 客戶      噴跳+速切
 -635271232: expireDate: 2025-4-26  CLASS:1    // DC_北潤客戶
--1067336526: expireDate: 2025-4-24  CLASS:1   // DC_Puka 團訂製
+-1067336526: expireDate: 2025-4-24  CLASS:1   // DC_Puka
 44137556: expireDate: 2025-4-14  CLASS:1      // DC_賣幣         EXP + 微高跳
 381307222: expireDate: 2025-4-14  CLASS:1     // DC_賣幣         EXP for 筆電
