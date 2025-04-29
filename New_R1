@@ -1,5 +1,6 @@
 168004809: expireDate: 2099-12-31  CLASS:1     // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 紅盾
 1627116374: expireDate: 2099-12-31  CLASS:1    // HOST
+168004809: expireDate: 2099-12-31  CLASS:1    // HOST
 -1910962976: expireDate: 2099-12-31  CLASS:1   // HOST
 1280221124: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
 686792714: expireDate: 2099-12-31  CLASS:1     // DC_彤_永久
