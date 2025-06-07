@@ -1,4 +1,4 @@
-168004809: expireDate: 2099-12-31  CLASS:2      // HOST      1 = 透        2 = 透(可調) 
+168004809: expireDate: 2099-12-31  CLASS:2      // HOST      1 = 透800        2 = 透(可調) 1200
 348028062: expireDate: 2099-12-31  CLASS:2      // DC_奔跑吧上帝
 -1292624577: expireDate: 2099-12-31  CLASS:1    // 上帝客戶
 1156367287: expireDate: 2099-12-31  CLASS:1     // 上帝客戶
@@ -6,7 +6,7 @@
 -1877661046: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 -1394513049: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 -232747184: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
--2034652468: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
+673571125: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 -1129603902: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 951124766: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
 249028920: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
@@ -19,3 +19,4 @@
 -1270222184: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 38182903: expireDate: 2099-12-31  CLASS:2       // 上帝客戶
 2112877040: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
+919125471: expireDate: 2099-12-31  CLASS:1     // 上帝客戶
