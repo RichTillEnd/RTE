@@ -1,4 +1,4 @@
-66870257: expireDate: 2099-12-31  CLASS:1   // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 紅盾
+66870257: expireDate: 2099-12-31  CLASS:1      // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 紅盾
 -1046391288: expireDate: 2099-12-31  CLASS:1   // HOST
 168004809: expireDate: 2099-12-31  CLASS:1     // HOST
 1280221124: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
@@ -10,21 +10,19 @@
 -224975417: expireDate: 2099-12-31  CLASS:3    // 北潤_永久
 -1262421158: expireDate: 2099-12-31  CLASS:1   // DC_北潤客戶 永久
 -1337420274: expireDate: 2099-12-31  CLASS:1   // DC_M3_永久
--703109994: expireDate: 2099-09-09  CLASS:1    // DC_水狗_永久
+-703109994: expireDate: 2099-12-31  CLASS:1    // DC_水狗_永久
 -247001460: expireDate: 2099-12-31  CLASS:1    // DC_拎北永久
 -1297109475: expireDate: 2099-12-31  CLASS:2   // r1朋友永久
 1486664211: expireDate: 2099-12-31  CLASS:2    // r1朋友永久
-848643820: expireDate: 2025-08-23  CLASS:1     // DC_風清揚
-166951794: expireDate: 2025-06-23  CLASS:2     // 北潤客戶 年卡
 -492192325: expireDate: 2025-07-07  CLASS:2    // DC_魔
--1902116829: expireDate: 2025-07-17  CLASS:1   // DC_葬愛
-276135706: expireDate: 2025-07-27  CLASS:1     // DC_梅川
--932598504: expireDate: 2025-06-29  CLASS:1    // DC_K135
 1009451335: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
 1115630519: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
 -524098159: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
 -159850229: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
 -198852708: expireDate: 2025-07-10  CLASS:1    // DC_Chuawen
 1649947634: expireDate: 2025-07-10  CLASS:1    // DC_Chuawen
-303388374: expireDate: 2025-07-10  CLASS:1    // DC_Chuawen
+303388374: expireDate: 2025-07-10  CLASS:1     // DC_Chuawen
 2090131950: expireDate: 2025-07-10  CLASS:1    // DC_K_135 頂配國際
+-1902116829: expireDate: 2025-07-17  CLASS:1   // DC_葬愛
+276135706: expireDate: 2025-07-27  CLASS:1     // DC_梅川
+848643820: expireDate: 2025-08-23  CLASS:1     // DC_風清揚
