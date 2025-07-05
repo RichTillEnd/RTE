@@ -15,7 +15,7 @@
 -247001460: expireDate: 2099-12-31  CLASS:1    // DC_拎北永久
 -1297109475: expireDate: 2099-12-31  CLASS:2   // r1朋友永久
 1486664211: expireDate: 2099-12-31  CLASS:2    // r1朋友永久
--492192325: expireDate: 2025-07-07  CLASS:2    // DC_魔
+-492192325: expireDate: 2025-07-07  CLASS:1    // DC_魔
 1009451335: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
 1115630519: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
 -524098159: expireDate: 2025-07-08  CLASS:1    // DC_魔朋友
