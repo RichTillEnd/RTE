@@ -1,7 +1,7 @@
 66870257: expireDate: 2099-12-31  CLASS:1      // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 紅盾
 -1046391288: expireDate: 2099-12-31  CLASS:1   // HOST
 168004809: expireDate: 2099-12-31  CLASS:1     // HOST
--727541724: expireDate: 2099-12-31  CLASS:1     // HOST
+-727541724: expireDate: 2099-12-31  CLASS:1    // HOST
 1280221124: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
 -467903499: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
 686792714: expireDate: 2099-12-31  CLASS:1     // DC_彤_永久
@@ -20,3 +20,4 @@
 276135706: expireDate: 2025-08-28  CLASS:1     // DC_梅川
 848643820: expireDate: 2025-08-23  CLASS:1     // DC_風清揚
 648719868: expireDate: 2025-09-01  CLASS:1     // DC_蕩婦
+-834485322: expireDate: 2025-09-05  CLASS:1    // DC_UCALPOK
