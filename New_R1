@@ -1,4 +1,4 @@
-66870257: expireDate: 2099-12-31  CLASS:1      // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 紅盾
+66870257: expireDate: 2099-12-31  CLASS:3      // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 紅盾
 -1046391288: expireDate: 2099-12-31  CLASS:1   // HOST
 168004809: expireDate: 2099-12-31  CLASS:1     // HOST
 -727541724: expireDate: 2099-12-31  CLASS:1    // HOST
