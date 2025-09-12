@@ -5,11 +5,7 @@
 -1001696565: expireDate: 2099-12-31  CLASS:1   // 肥肥 永久
 1984756522: expireDate: 2099-12-31  CLASS:0    // 阿洲 永久
 2096509874: expireDate: 2099-12-31  CLASS:3    // DC_Tryst、
--764203013: expireDate: 2025-09-02  CLASS:0    // DC_k135
--532144899: expireDate: 2025-09-05  CLASS:0    // DC_H.
--574035649: expireDate: 2025-09-05  CLASS:0    // DC_墓碑
-6833980: expireDate: 2025-09-07  CLASS:0       // DC_K135
-6833980: expireDate: 2025-09-19  CLASS:0       // DC_K135
+683-3980: expireDate: 2025-09-07  CLASS:0       // DC_K135
+683-3980: expireDate: 2025-09-19  CLASS:0       // DC_K135(有點問題)
 -1866080834: expireDate: 2025-09-17  CLASS:0   // DC_四它
 -725175941: expireDate: 2025-09-23  CLASS:0    // DC_童謠
-
