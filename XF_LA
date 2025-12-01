@@ -19,8 +19,6 @@
 339812896: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
 -1610292548: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 -1270222184: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-1688571891: expireDate: 2025-11-10  CLASS:3     // 上帝客戶  (也有買 CLASS:2) 永久
--1398455319: expireDate: 2025-11-11  CLASS:2    // 上帝客戶
 2112877040: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
 919125471: expireDate: 2099-12-31  CLASS:1      // 上帝客戶
 -1843613874: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
@@ -31,7 +29,7 @@
 345349639: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
 -1534042425: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
 1918450605: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-849127132: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
+849127132: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
 809297590: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
 1314740453: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
 340075191: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
@@ -39,27 +37,16 @@
 -53027237: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
 -625867011: expireDate: 2099-12-31  CLASS:3     // 上帝客戶
 -2067425999: expireDate: 2099-12-31  CLASS:2    // DC_老白
--767740851: expireDate: 2025-09-17  CLASS:2     // 上帝客戶 *月費*
-2090239763: expireDate: 2025-10-23  CLASS:2     // 上帝客戶 *月費*
--330976615: expireDate: 2025-10-11  CLASS:2     // 上帝客戶 *月費*
--1240484604: expireDate: 2025-10-12  CLASS:2    // 上帝客戶 *月費*
-1043127829: expireDate: 2025-10-12  CLASS:2     // 上帝客戶 *月費*
--602794026: expireDate: 2025-10-13  CLASS:2     // 上帝客戶 *月費*
--465961054: expireDate: 2025-11-20  CLASS:2     // 上帝客戶 *月費*
--1387310773: expireDate: 2025-12-26  CLASS:2     // 上帝客戶 *月費*
--731160802: expireDate: 2025-11-14  CLASS:3     // 上帝客戶 *暴力月費*
+-1387310773: expireDate: 2025-12-26  CLASS:2    // 上帝客戶 *月費*
 1849418657: expireDate: 2025-12-13  CLASS:2     // 上帝客戶 *暴力月費*
--88085239: expireDate: 2025-12-15  CLASS:3     // 上帝客戶 *暴力月費*
--95899848: expireDate: 2025-12-15  CLASS:2     // 上帝客戶 *暴力月費*
+-88085239: expireDate: 2025-12-15  CLASS:3      // 上帝客戶 *暴力月費*
+-95899848: expireDate: 2025-12-15  CLASS:2      // 上帝客戶 *暴力月費*
 -731160802: expireDate: 2025-12-17  CLASS:3     // 上帝客戶 *暴力月費*
--2039286142: expireDate: 2025-11-18  CLASS:2    // 上帝客戶 *月費*
 1481118846: expireDate: 2025-12-18  CLASS:2     // 上帝客戶 *月費*
 1948978261: expireDate: 2025-12-27  CLASS:2     // 上帝客戶 *月費*
 -1394257274: expireDate: 2025-12-26  CLASS:3    // 上帝客戶 *月費*
-684958384: expireDate: 2025-12-12  CLASS:2    // 上帝客戶 *月費*
+684958384: expireDate: 2025-12-12  CLASS:2      // 上帝客戶 *月費*
 1688571891: expireDate: 2025-12-12  CLASS:3     // 上帝客戶 *月費*
 -228826239: expireDate: 2025-12-13  CLASS:2     // 上帝客戶 *月費*
--1398455319: expireDate: 2026-01-18  CLASS:2     // 上帝客戶 *月費*
-1111394359: expireDate: 2025-11-30  CLASS:3     // 上帝客戶 *暴力月費*
--1910620368: expireDate: 2025-11-22  CLASS:3    // 上帝客戶 *暴力月費*
+-1398455319: expireDate: 2026-01-18  CLASS:2    // 上帝客戶 *月費*
 1387057773: expireDate: 2025-12-07  CLASS:3     // DC_puka *暴力月費*
