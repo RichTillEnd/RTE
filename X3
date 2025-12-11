@@ -1,7 +1,4 @@
-66870257: expireDate: 2099-12-31  CLASS:1      // HOST   權限 0 = 普通  1 = 含炸房
--1829206427: expireDate: 2099-12-31  CLASS:0   // r1 friends 永久
--61946511: expireDate: 2099-12-31  CLASS:0     // r1 friends 永久
--1297109475: expireDate: 2099-12-31  CLASS:0   // r1 friends 永久
+66870257: expireDate: 9999-12-31  CLASS:1      // HOST   權限 0 = 普通  1 = 含炸房
 1009363300: expireDate: 2025-12-15  CLASS:1    // DC_Bae
 -736632429: expireDate: 2025-12-16  CLASS:0    // DC_Fox
 2122801738: expireDate: 2026-01-05  CLASS:0    // DC_Nick
