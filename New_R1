@@ -1,15 +1,15 @@
-66870257: expireDate: 9999-12-31  CLASS:3      // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 白框
-1280221124: expireDate: 9999-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
--467903499: expireDate: 9999-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
-686792714: expireDate: 9999-12-31  CLASS:3     // DC_彤_永久
--1038605678: expireDate: 9999-12-31  CLASS:3   // DC_虎_永久
--1136070257: expireDate: 9999-12-31  CLASS:1   // DC_NC永久
-811040521: expireDate: 9999-12-31  CLASS:1     // R1_永久
--224975417: expireDate: 9999-12-31  CLASS:1    // 北潤_永久
--1262421158: expireDate: 9999-12-31  CLASS:1   // DC_北潤客戶 永久
--1337420274: expireDate: 9999-12-31  CLASS:1   // DC_M3_永久
--703109994: expireDate: 9999-12-31  CLASS:1    // DC_水狗_永久
-451056912: expireDate: 9999-12-31  CLASS:3     // DC_拎北永久
--1297109475: expireDate: 9999-12-31  CLASS:1   // r1朋友永久
-1486664211: expireDate: 9999-12-31  CLASS:1    // r1朋友永久
+66870257: expireDate: 2099-12-31  CLASS:3      // HOST   權限 1 = 帶踢人  2 = 沒踢人  3 = 白框
+1280221124: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
+-467903499: expireDate: 2099-12-31  CLASS:1    // DC_UUUUUUUUUUUUU_永久
+686792714: expireDate: 2099-12-31  CLASS:3     // DC_彤_永久
+-1038605678: expireDate: 2099-12-31  CLASS:3   // DC_虎_永久
+-1136070257: expireDate: 2099-12-31  CLASS:1   // DC_NC永久
+811040521: expireDate: 2099-12-31  CLASS:1     // R1_永久
+-224975417: expireDate: 2099-12-31  CLASS:1    // 北潤_永久
+-1262421158: expireDate: 2099-12-31  CLASS:1   // DC_北潤客戶 永久
+-1337420274: expireDate: 2099-12-31  CLASS:1   // DC_M3_永久
+-703109994: expireDate: 2099-12-31  CLASS:1    // DC_水狗_永久
+451056912: expireDate: 2099-12-31  CLASS:3     // DC_拎北永久
+-1297109475: expireDate: 2099-12-31  CLASS:1   // r1朋友永久
+1486664211: expireDate: 2099-12-31  CLASS:1    // r1朋友永久
 -1946055407: expireDate: 2025-12-15  CLASS:3   // DC_jay
