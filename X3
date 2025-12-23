@@ -1,7 +1,8 @@
 66870257: expireDate: 2099-12-31  CLASS:1      // HOST   權限 0 = 普通  1 = 含炸房
+-2073009908: expireDate: 2099-12-31  CLASS:0   // DC_LV發抖
 -736632429: expireDate: 2025-12-16  CLASS:0    // DC_Fox
 2122801738: expireDate: 2026-01-05  CLASS:0    // DC_Nick
 -1539284827: expireDate: 2026-01-08  CLASS:0   // DC_北潤
 -157240858: expireDate: 2026-03-12  CLASS:0    // DC_Nick
-418275492: expireDate: 2026-01-15  CLASS:0    // DC_北潤客戶
+418275492: expireDate: 2026-01-15  CLASS:0     // DC_北潤客戶
 1168667129: expireDate: 2026-01-20  CLASS:0    // DC_TakoZX
