@@ -1,6 +1,5 @@
 -1075078292: expireDate: 2099-12-31  CLASS:1      // HOST    權限 1 = 踢人+黃盾  2 = 隔空遁地+瞬間加速  0 = 全無 3 = 單踢
 1414202657: expireDate: 2099-12-31  CLASS:0    // 阿洲 永久
-2096509874: expireDate: 2099-12-31  CLASS:3    // DC_Tryst、
 2024592416: expireDate: 2099-12-31  CLASS:0    // DC_葬愛 (自瞄透)
 -2100283524: expireDate: 2026-01-25  CLASS:0   // LINE_LeWeei
 -1261201261: expireDate: 2026-02-26  CLASS:0   // LINE_江享虹  / DC_哈哈
@@ -14,3 +13,4 @@
 -433123412: expireDate: 2026-02-21  CLASS:0    // DC_K135客戶
 1569488164: expireDate: 2026-03-07  CLASS:0    // DC_北潤客戶 (自瞄透)
 -1027770330: expireDate: 2026-03-07  CLASS:0    // DC_北潤客戶 (自瞄透)
+
