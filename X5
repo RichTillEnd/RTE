@@ -1,4 +1,4 @@
--1075078292: expireDate: 2099-12-31  CLASS:1      // HOST    權限 1 = 踢人+黃盾  2 = 隔空遁地+瞬間加速  0 = 全無 3 = 單踢
+-1075078292: expireDate: 2099-12-31  CLASS:1   // HOST    權限 1 = 踢人+黃盾  2 = 隔空遁地+瞬間加速  0 = 全無 3 = 單踢
 1414202657: expireDate: 2099-12-31  CLASS:0    // 阿洲 永久
 2024592416: expireDate: 2099-12-31  CLASS:0    // DC_葬愛 (自瞄透)
 -2100283524: expireDate: 2026-01-25  CLASS:0   // LINE_LeWeei
@@ -6,11 +6,9 @@
 -1136350031: expireDate: 2026-03-11  CLASS:2   // DC_焦糖
 -1796185723: expireDate: 2026-03-12  CLASS:0   // DC_K135客戶
 -1205273019: expireDate: 2026-02-17  CLASS:0   // DC_柒八
--65712027: expireDate: 2026-02-18  CLASS:0     // DC_風城3K
--259456998: expireDate: 2026-02-18  CLASS:0    // DC_風城3K
-1253610623: expireDate: 2026-02-18  CLASS:0    // DC_風城3K
 -1192061707: expireDate: 2026-02-21  CLASS:0   // DC_童謠
 -433123412: expireDate: 2026-03-23  CLASS:0    // DC_K135客戶
 1569488164: expireDate: 2026-03-07  CLASS:0    // DC_北潤客戶 (自瞄透)
 -1027770330: expireDate: 2026-03-07  CLASS:0    // DC_北潤客戶 (自瞄透)
+
 
