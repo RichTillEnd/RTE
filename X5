@@ -2,9 +2,9 @@
 2020586391: expireDate: 2099-12-31  CLASS:0    // 阿洲 永久
 2024592416: expireDate: 2099-12-31  CLASS:0    // DC_葬愛 (自瞄透)
 -224975417: expireDate: 2099-12-31  CLASS:0    // DC_北潤 (自瞄透)
--433123412: expireDate: 2026-07-22  CLASS:0    // DC_K135
+-433123412: expireDate: 2026-07-22  CLASS:2    // DC_K135
 -1192061707: expireDate: 2026-06-21  CLASS:0   // DC_童謠
--1796185723: expireDate: 2026-07-02  CLASS:0   // DC_Khan
-2094863245: expireDate: 2026-06-05  CLASS:0   // DC_Khan
+-1796185723: expireDate: 2026-07-02  CLASS:2   // DC_Khan
+2094863245: expireDate: 2026-06-05  CLASS:2   // DC_Khan
 1009363300: expireDate: 2026-06-23  CLASS:2   // DC_Bae
--434889759: expireDate: 2026-06-25  CLASS:0   // KHAN
+-434889759: expireDate: 2026-06-25  CLASS:2   // KHAN
