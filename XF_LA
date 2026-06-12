@@ -1,46 +1,6 @@
 -1075078292: expireDate: 2099-12-31  CLASS:3     // HOST      1 = 透  2 = 透(可調) 1200   3 = 頂規1000
 348028062: expireDate: 2099-12-31  CLASS:3      // DC_奔跑吧上帝
 451056912: expireDate: 2099-12-31  CLASS:3
--1292624577: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-1156367287: expireDate: 2099-12-31  CLASS:1     // 上帝客戶
-1530580222: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
--1877661046: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-573792454: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
-1208159837: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
--232747184: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
--2066480476: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
--1129603902: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
--1656933500: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-249028920: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
-237788677: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--59775089: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--797295037: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-1886611626: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-339812896: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--1610292548: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-472541759: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
-2112877040: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-919125471: expireDate: 2099-12-31  CLASS:1      // 上帝客戶
--1843613874: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
--1662820481: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
--1131787666: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-850440089: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--1810879576: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-345349639: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--1534042425: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
-1918450605: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-849127132: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
-809297590: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
-1314740453: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-340075191: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
-1522001827: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
--53027237: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--1598727009: expireDate: 2099-12-31  CLASS:2    // 上帝客戶
--625867011: expireDate: 2099-12-31  CLASS:3     // 上帝客戶 *暴力*
-1849418657: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-1688571891: expireDate: 2099-12-31  CLASS:2     // 上帝客戶
-611723404: expireDate: 2099-12-31  CLASS:2      // 上帝客戶
--2067425999: expireDate: 2099-12-31  CLASS:2    // DC_老白
 253037358: expireDate: 2026-06-15  CLASS:3      // 上帝客戶 *暴力月費*
 -2105244869: expireDate: 2026-06-19  CLASS:3    // 上帝客戶 *暴力月費*
 1652308145: expireDate: 2026-06-16  CLASS:3     // 上帝客戶 *暴力月費*
@@ -56,5 +16,6 @@
 956245058: expireDate: 2026-06-25  CLASS:2      // 上帝客戶 *月費*
 612046320: expireDate: 2026-07-07  CLASS:2      // 上帝客戶 *月費*
 -2039286142: expireDate: 2026-07-10  CLASS:2    // 上帝客戶 *月費*
--622920307: expireDate: 2026-07-10  CLASS:2    // 上帝客戶 *月費*
-1482501512: expireDate: 2026-07-11  CLASS:2    // 上帝客戶 *月費*
+-622920307: expireDate: 2026-07-10  CLASS:2     // 上帝客戶 *月費*
+1482501512: expireDate: 2026-07-11  CLASS:2     // 上帝客戶 *月費*
+-58727623: expireDate: 2026-07-31  CLASS:2      // 上帝客戶 *月費*
