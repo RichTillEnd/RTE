@@ -1,33 +1,33 @@
--1075078292: expireDate: 2099-12-31  CLASS:3     // HOST      1 = 透  2 = 透(可調) 1200   3 = 頂規1000
-348028062: expireDate: 2099-12-31  CLASS:3      // DC_奔跑吧上帝
-451056912: expireDate: 2099-12-31  CLASS:3
-1849418657: expireDate: 2099-12-31  CLASS:3     // DC_奔跑吧上帝
--2105244869: expireDate: 2026-07-24  CLASS:3    // 上帝客戶 *暴力月費*
-121197239: expireDate: 2026-07-14  CLASS:3      // 上帝客戶 *暴力月費*
-1144454178: expireDate: 2026-07-21  CLASS:3     // 上帝客戶 *暴力月費*
-1314740453: expireDate: 2026-06-30  CLASS:2     // 上帝客戶 *月費*
--1501064691: expireDate: 2026-07-14  CLASS:2    // 上帝客戶 *月費*
-1660351535: expireDate: 2026-08-06  CLASS:2     // 上帝客戶 *月費*
--95347917: expireDate: 2026-07-27  CLASS:2      // 上帝客戶 *月費*
-1758189023: expireDate: 2026-07-26  CLASS:2     // 上帝客戶 *月費*
--729619936: expireDate: 2026-08-06  CLASS:2     // 上帝客戶 *月費*
-612046320: expireDate: 2026-08-08  CLASS:2      // 上帝客戶 *月費*
--2039286142: expireDate: 2026-08-13  CLASS:2    // 上帝客戶 *月費*
--58727623: expireDate: 2026-07-31  CLASS:2      // 上帝客戶 *月費*
-1918450605: expireDate: 2026-07-31  CLASS:2     // 上帝客戶 *月費*
--1198153984: expireDate: 2026-07-28  CLASS:2     // 上帝客戶 *月費*
--1598727009: expireDate: 2026-06-30  CLASS:2    // 上帝客戶 *月費*
-472541759: expireDate: 2026-07-31  CLASS:2      // 上帝客戶 *月費*
--1470109140: expireDate: 2026-07-31  CLASS:2    // 上帝客戶 *暴力月費*
--1205058521: expireDate: 2026-08-08  CLASS:2    // 上帝客戶 *月費*
--1810879576: expireDate: 2026-07-31  CLASS:3    // 上帝客戶 *暴力月費*
-2086983036: expireDate: 2026-07-28  CLASS:3     // 上帝客戶 *暴力月費*
--1638632444: expireDate: 2026-07-31  CLASS:2    // 上帝客戶 *月費*
--367053303: expireDate: 2026-07-30  CLASS:2     // 上帝客戶 *月費*
-1482476945: expireDate: 2026-08-04  CLASS:2     // 上帝客戶 *月費*
--1002698220: expireDate: 2026-08-04  CLASS:2    // 上帝客戶 *月費*
--1292624577: expireDate: 2026-08-05  CLASS:2    // 上帝客戶 *月費*
--567814067: expireDate: 2026-08-08  CLASS:2    // 上帝客戶 *月費*
--837943650: expireDate: 2026-08-10  CLASS:2    // 上帝客戶 *月費*
--1950420960: expireDate: 2026-08-12  CLASS:2    // 上帝客戶 *月費*
-1482501512: expireDate: 2026-08-15  CLASS:2    // 上帝客戶 *月費*
+-1075078292: expireDate: 2099-12-31  CLASS:3    // HOST   2 = 透(可調) 1200   3 = 頂規1000
+348028062: expireDate: 2099-12-31  CLASS:3      // 
+451056912: expireDate: 2099-12-31  CLASS:3	//
+1849418657: expireDate: 2099-12-31  CLASS:3     // 
+-2105244869: expireDate: 2026-07-24  CLASS:3    // 暴力
+121197239: expireDate: 2026-07-14  CLASS:3      // 暴力
+1144454178: expireDate: 2026-07-21  CLASS:3     // 暴力
+1314740453: expireDate: 2026-06-30  CLASS:2     // 
+-1501064691: expireDate: 2026-07-14  CLASS:2    // 
+1660351535: expireDate: 2026-08-06  CLASS:2     // 
+-95347917: expireDate: 2026-07-27  CLASS:2      // 
+1758189023: expireDate: 2026-07-26  CLASS:2     // 
+-729619936: expireDate: 2026-08-06  CLASS:2     // 
+612046320: expireDate: 2026-08-08  CLASS:2      // 
+-2039286142: expireDate: 2026-08-13  CLASS:2    // 
+-58727623: expireDate: 2026-07-31  CLASS:2      // 
+1918450605: expireDate: 2026-07-31  CLASS:2     // 
+-1198153984: expireDate: 2026-07-28  CLASS:2    // 
+-1598727009: expireDate: 2026-06-30  CLASS:2    // 
+472541759: expireDate: 2026-07-31  CLASS:2      // 
+-1470109140: expireDate: 2026-07-31  CLASS:2    // 暴力
+-1205058521: expireDate: 2026-08-08  CLASS:2    // 
+-1810879576: expireDate: 2026-07-31  CLASS:3    // 暴力
+2086983036: expireDate: 2026-07-28  CLASS:3     // 暴力
+-1638632444: expireDate: 2026-07-31  CLASS:2    // 
+-367053303: expireDate: 2026-07-30  CLASS:2     // 
+1482476945: expireDate: 2026-08-04  CLASS:2     // 
+-1002698220: expireDate: 2026-08-04  CLASS:2    // 
+-1292624577: expireDate: 2026-08-05  CLASS:2    // 
+-567814067: expireDate: 2026-08-08  CLASS:2     // 
+-837943650: expireDate: 2026-08-10  CLASS:2     // 
+-1950420960: expireDate: 2026-08-12  CLASS:2    // 
+1482501512: expireDate: 2026-08-15  CLASS:2     // 
