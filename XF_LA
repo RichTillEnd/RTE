@@ -13,7 +13,7 @@
 -58727623: expireDate: 2026-07-31  CLASS:2      // 
 1918450605: expireDate: 2026-07-31  CLASS:2     // 
 -1198153984: expireDate: 2026-07-28  CLASS:2    // 
-472541759: expireDate: 2026-07-31  CLASS:2      // 
+472541759: expireDate: 2026-08-31  CLASS:2      // 
 -1470109140: expireDate: 2026-07-31  CLASS:2    // 暴力
 -1205058521: expireDate: 2026-08-08  CLASS:2    // 
 -1810879576: expireDate: 2026-07-31  CLASS:3    // 暴力
@@ -32,3 +32,4 @@
 -230766512: expireDate: 2026-08-25  CLASS:2     // 
 340075191: expireDate: 2027-07-31  CLASS:2      // 
 -1877661046: expireDate: 2027-08-26  CLASS:2    //
+-1198153984: expireDate: 2027-08-31  CLASS:2
