@@ -1,8 +1,7 @@
 -1075078292: expireDate: 2099-12-31  CLASS:1   // HOST   權限 0 = 普通  1 = 含炸房
 -2073009908: expireDate: 2099-12-31  CLASS:0    // DC_LV發抖
 -57675048: expireDate: 2099-12-31  CLASS:0     // DC_阿瑋
-1344767370: expireDate: 2026-08-04  CLASS:0    // DC_爸爸永久  #要改驗證機制 E磁碟
--186561286: expireDate: 2026-08-04  CLASS:0    // DC_爸爸永久  #要改驗證機制 C磁碟
+-1071215755: expireDate: 2026-09-04  CLASS:0    // DC_爸爸永久  #要改驗證機制 E磁碟
 648722158: expireDate: 2026-08-07  CLASS:0     // DC_拎刀揮修處
 -1065632057: expireDate: 2026-09-01  CLASS:0   // DC_Khan
 -932598504: expireDate: 2026-07-07  CLASS:0    // DC_Khan
