@@ -2,19 +2,19 @@
 1791884234: expireDate: 2099-12-31  CLASS:3      // 
 451056912: expireDate: 2099-12-31  CLASS:3	    //
 1849418657: expireDate: 2099-12-31  CLASS:3     // 
--2105244869: expireDate: 2026-08-28  CLASS:3    // 暴力
-1144454178: expireDate: 2026-12-28  CLASS:3     // 暴力
+-2105244869: expireDate: 2026-08-28  CLASS:3    // 
+1144454178: expireDate: 2026-12-28  CLASS:3     // 
 1660351535: expireDate: 2026-08-06  CLASS:2     // 
 -729619936: expireDate: 2026-08-06  CLASS:2     // 
 612046320: expireDate: 2026-09-09  CLASS:2      // 
 -2039286142: expireDate: 2026-11-25  CLASS:2    // 
 -1205058521: expireDate: 2026-12-04  CLASS:2    // 
-2086983036: expireDate: 2026-10-30  CLASS:3     // 暴力
-1718567435: expireDate: 2026-08-21  CLASS:3     // 暴力
-1652308145: expireDate: 2026-11-25  CLASS:3     // 暴力
--1387328674: expireDate: 2026-11-25  CLASS:3    // 暴力
-1751457841: expireDate: 2026-08-29  CLASS:3     // 暴力
--1810879576: expireDate: 2026-09-25  CLASS:3    // 暴力
+2086983036: expireDate: 2026-10-30  CLASS:3     // 
+1718567435: expireDate: 2026-08-21  CLASS:3     // 
+1652308145: expireDate: 2026-11-25  CLASS:3     // 
+-1387328674: expireDate: 2026-11-25  CLASS:3    // 
+1751457841: expireDate: 2026-08-29  CLASS:3     // 
+-1810879576: expireDate: 2026-09-25  CLASS:3    //
 -1638632444: expireDate: 2026-12-08  CLASS:2    // 
 -1002698220: expireDate: 2026-08-04  CLASS:2    // 
 -1292624577: expireDate: 2026-11-17  CLASS:2    // 
@@ -32,7 +32,7 @@
 -367053303: expireDate: 2026-11-13  CLASS:2     //
 -972710408: expireDate: 2026-09-03  CLASS:2     //
 717819716: expireDate: 2026-09-03  CLASS:2      //
-340075191: expireDate: 2027-07-31  CLASS:2      // 年費
+340075191: expireDate: 2027-07-31  CLASS:2      // 
 166951794: expireDate: 2026-11-28  CLASS:2      // 
 939955308: expireDate: 2026-09-30  CLASS:2      // 
 2029577186: expireDate: 2026-11-05  CLASS:2     // 
@@ -41,13 +41,14 @@
 1482476945: expireDate: 2026-11-11  CLASS:2     // 
 -1138475453: expireDate: 2026-12-01  CLASS:2     // 
 581693083: expireDate: 2026-10-10  CLASS:2      // 
--2105244869: expireDate: 2026-10-14  CLASS:3    // 暴力
+-2105244869: expireDate: 2026-10-14  CLASS:3    // 
 1788684247: expireDate: 2026-10-17  CLASS:2     // 
 -1426147004: expireDate: 2026-11-27  CLASS:3    // 
 -2009930258: expireDate: 2026-12-02  CLASS:3    // 
-138318992: expireDate: 2026-10-30  CLASS:3      // 破洞
+138318992: expireDate: 2026-10-30  CLASS:3      // 
 939955308: expireDate: 2026-11-02  CLASS:2      // 
 -1865484437: expireDate: 2026-11-17  CLASS:2    // 
 944844014: expireDate: 2026-11-23  CLASS:2      //
 1530580222: expireDate: 2026-11-25  CLASS:2
 1956197987: expireDate: 2026-11-30  CLASS:3      //
+1344262726: expireDate: 2026-12-03  CLASS:3      //
