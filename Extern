@@ -1,13 +1,13 @@
 -1677876220: expireDate: 2099-12-31  CLASS:3   // HOST          1 = 基本  2 = 炸FPS  3 = 免+炸+斷
 -727541724: expireDate: 2099-12-31  CLASS:1    // HOST
 -224975417: expireDate: 2099-12-31  CLASS:1    // DC_北潤
--2004386755: expireDate: 2099-12-31  CLASS:1     // DC_拎北
+1997618609: expireDate: 2099-12-31  CLASS:1   // DC_拎北
 2096509874: expireDate: 2099-12-31  CLASS:1    // DC_Tryst、
 210167721: expireDate: 2099-12-31  CLASS:1     // DC_FatFat
 1168667129: expireDate: 2099-12-31  CLASS:1    // DC_87
 348028062: expireDate: 2099-12-31  CLASS:1     // DC_NICK (CS2)
 1280221124: expireDate: 2099-12-31  CLASS:1    // DC_uuuuuuuuuuu (CS2)
--1038605678: expireDate: 2026-11-07  CLASS:3  // DC_Huyaaaaaaaa (CS2)
+-1038605678: expireDate: 2026-11-07  CLASS:3   // DC_Huyaaaaaaaa (CS2)
 302668652: expireDate: 2099-12-31  CLASS:3     // DC_Y肥
 686792714: expireDate: 2099-12-31  CLASS:3     // DC_彤
 -936499665: expireDate: 2026-11-08  CLASS:3    // DC_梅川
@@ -15,10 +15,10 @@
 -904375475: expireDate: 2026-11-08  CLASS:3    //DC_鮑魚
 362432955: expireDate: 2026-09-02  CLASS:3     //DC_北潤客戶
 -1908482704: expireDate: 2026-09-04  CLASS:3   // DC_巡佐
--492192325: expireDate: 2026-12-30  CLASS:3   // DC_空風
-43826665: expireDate: 2026-08-17  CLASS:3     // DC_MY
-316503466: expireDate: 2026-09-19  CLASS:3    // DC_Fuan
-577421165: expireDate: 2026-11-28  CLASS:3    // DC_ROGIC
-1769625059: expireDate: 2026-11-12  CLASS:3  // dc_zHONG
-2055112772: expireDate: 2026-11-16  CLASS:3  // dc_NAN47
--1286324541: expireDate: 2026-10-29  CLASS:2  // TG_KIRA
+-492192325: expireDate: 2026-12-30  CLASS:3    // DC_空風
+43826665: expireDate: 2026-08-17  CLASS:3      // DC_MY
+316503466: expireDate: 2026-09-19  CLASS:3     // DC_Fuan
+577421165: expireDate: 2026-11-28  CLASS:3     // DC_ROGIC
+1769625059: expireDate: 2026-11-12  CLASS:3    // dc_zHONG
+2055112772: expireDate: 2026-11-16  CLASS:3    // dc_NAN47
+-1286324541: expireDate: 2026-10-29  CLASS:2   // TG_KIRA
