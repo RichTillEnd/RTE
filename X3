@@ -1,7 +1,7 @@
 -1677876220: expireDate: 2099-12-31  CLASS:1   // HOST   權限 0 = 普通  1 = 含炸房
 -2073009908: expireDate: 2099-12-31  CLASS:0   // DC_LV發抖
 -57675048: expireDate: 2099-12-31  CLASS:0     // DC_阿瑋
--36390178: expireDate: 2099-12-31  CLASS:0   // DC_爸爸永久  #要改驗證機制 E磁碟
+-36390178: expireDate: 2099-12-31  CLASS:0     // DC_爸爸永久  #要改驗證機制 E磁碟
 648722158: expireDate: 2026-11-17  CLASS:0     // DC_拎刀揮修處
 -1065632057: expireDate: 2026-11-04  CLASS:0   // DC_Khan
 -1908482704: expireDate: 2026-09-03  CLASS:0   // DC_巡佐
@@ -12,10 +12,10 @@
 1759283216: expireDate: 2026-09-28  CLASS:0    // DC_北潤客戶
 -1769576620: expireDate: 2026-09-28  CLASS:0   // DC_北潤客戶 (改)
 247794179: expireDate: 2026-11-11  CLASS:0     // DC_Khan
--856251578: expireDate: 2026-10-13  CLASS:0     // DC_Fox
--157240858: expireDate: 2026-11-26  CLASS:0     // DC_NICK
-1353434123: expireDate: 2026-11-12  CLASS:0     // DC_NICK
-1888867949: expireDate: 2026-11-12  CLASS:0     // DC_NICK
+-856251578: expireDate: 2026-10-13  CLASS:0    // DC_Fox
+-157240858: expireDate: 2026-11-26  CLASS:0    // DC_NICK
+1353434123: expireDate: 2026-11-12  CLASS:0    // DC_NICK
+1888867949: expireDate: 2026-11-12  CLASS:0    // DC_NICK
 1837608260: expireDate: 2026-11-22  CLASS:0    // DC_北潤客戶
-348486522: expireDate: 2026-11-30  CLASS:0    // DC_跩哥
+348486522: expireDate: 2026-11-30  CLASS:0     // DC_跩哥
 1509559230: expireDate: 2026-12-07  CLASS:0    // DC_..
